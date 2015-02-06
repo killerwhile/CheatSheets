@@ -15,6 +15,10 @@ Yum and RPM cheat sheet
 
 ```yum info <package>```
 
+## Search for package and show duplicates
+
+```yum search --showduplicates jdk```
+
 # RPM
 
 ## List all files of an installed package
